@@ -1,7 +1,6 @@
-Perl-Web-Scripts
+Perl-Based Random Proxy
 ================
 
-Perl-Web-Scripts
 
 BadProxies.txt = list of proxies which have been tested and found to be un reliable
 
