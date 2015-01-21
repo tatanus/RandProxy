@@ -6,8 +6,6 @@ use HTTP::Request::Common;
 use HTML::Entities;
 
 package Proxy;
-	my @pasties;
-	my @seenPasties;
 	my @proxies;
 
 	sub new {
